@@ -14,7 +14,7 @@
   },
 
   "license": "MIT",
-  "icon": "assets/m_survival/icon.png",
+  "icon": "assets/multiverse_survival/icon.png",
 
   "environment": "*",
   "entrypoints": {
