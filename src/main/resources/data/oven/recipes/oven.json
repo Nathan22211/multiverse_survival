@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#B#",
+    "B B",
+    "SSS"
+  ],
+  "key": {
+    "#": {
+      "item": "multiverse_survival:mortar"
+    },
+    "B": {
+      "item": "minecraft:brick"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "oven:oven",
+    "count": 1
+  }
+}

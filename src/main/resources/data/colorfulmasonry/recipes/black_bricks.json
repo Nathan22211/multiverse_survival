@@ -1,0 +1,22 @@
+{
+  "type": "colorfulmasonry:masonry_oven",
+  "dye": {
+    "item": "multiverse_survival:mortar"
+  },
+  "ground_material": {
+    "item": "multiverse_survival:colored_brick_mold",
+    "data": {
+      "require": {
+        "Color": 15
+      }
+    },
+    "result": "colorfulmasonry:black_bricks",
+    "experience": 0.3,
+    "cookingtime": 200,
+    "frc:conditions": [
+      {
+        "recipeconditions:mod_loaded": "colorfulmasonry"
+      }
+    ]
+  }
+}

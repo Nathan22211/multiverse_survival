@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "S S",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:brick"
+    },
+    "S": {
+      "item": "multiverse_survival:mortar"
+    }
+  },
+  "result": {
+    "item": "kiln:kiln",
+    "count": 1
+  }
+}

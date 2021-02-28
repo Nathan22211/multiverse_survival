@@ -1,0 +1,104 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/barrier"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "multiverse_survival:item/brick_mold/red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "multiverse_survival:item/brick_mold/orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "multiverse_survival:item/brick_mold/yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "multiverse_survival:item/brick_mold/lime"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "multiverse_survival:item/brick_mold/green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "multiverse_survival:item/brick_mold/cyan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "multiverse_survival:item/brick_mold/light_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "multiverse_survival:item/brick_mold/blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "multiverse_survival:item/brick_mold/pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "multiverse_survival:item/brick_mold/magenta"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "multiverse_survival:item/brick_mold/purple"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "multiverse_survival:item/brick_mold/brown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "multiverse_survival:item/brick_mold/light_gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "multiverse_survival:item/brick_mold/gray"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "multiverse_survival:item/brick_mold/white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "multiverse_survival:item/brick_mold/black"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "multiverse_survival",
+  "version": "${version}",
+
+  "name": "Multiverse Survival",
+  "description": "survival module for the multiverse modline",
+  "authors": [
+    "Nathan22211"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/m_survival/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "multiverse.multiverse_survival.ExampleMod"
+    ]
+  },
+  "mixins": [
+    "multiverse_survival.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": ">=1.16.4",
+    "nbtcrafting": "*",
+    "oven": "*",
+    "kiln": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

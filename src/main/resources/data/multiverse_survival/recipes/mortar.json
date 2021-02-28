@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "multiverse_survival:sand_pile"
+    },
+    {
+      "item": "multiverse_survival:small_clay"
+    }
+  ],
+  "result": {
+    "item": "multiverse_survival:mortar",
+    "count": 10
+  }
+}
